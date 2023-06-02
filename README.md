@@ -1,14 +1,14 @@
-Hi 👋 My name is Flinson Lindo
+Hi 👋 My name is Flinson
 ==============================
 
-I am a Web Developer and Designer
+I like to code at serene nights
 ---------------------------------
 
-Hello everyone! I've been learning to code for 2 years. I started my programming journey by learning python but have really found a passion for frontend development. So I started by learning and practicing HTML, CSS, and Javascript daily in order to become the best programmer. I am not the best programmer yet, but I am damn sure one day I will be. I'll tell myself that "I will succeed, maybe not today, maybe not tomorrow, and maybe not the next month but one day I will. "
+Hey you! Yeah you, the one reading this, you are an amazing human. To tell you about myself, I am a student studying statistics and am interested in pursuing a career in actuarial science. In addition to my studies, I enjoy coding during the evenings from time to time. 
 
 * 🌍  I'm based in India
-* ✉️  You can contact me at [flinsonofficial@gmail.com](mailto:flinsonofficial@gmail.com)
-* 🧠  I'm learning React Js
+* ✉️  You can contact me at [flinsonlindo@gmail.com](mailto:flinsonlindo@gmail.com)
+* 🧠  I'm learning Python
 * 🤝  I'm open to collaborating on interesting projects
 
 ### Skills
