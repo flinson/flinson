@@ -4,11 +4,11 @@ Hi 👋 My name is Flinson
 I like to code at serene nights
 ---------------------------------
 
-Hey you! Yeah you, the one reading this, you are an amazing human. To tell you about myself, I am a student studying statistics and am interested in pursuing a career in actuarial science. In addition to my studies, I enjoy coding during the evenings from time to time. 
+Hey you! Yeah you, the one reading this,To tell you about myself, I am a student studying statistics and am interested in pursuing a career in actuarial science. In addition to my studies, I enjoy coding during the evenings from time to time. 
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [flinsonlindo@gmail.com](mailto:flinsonlindo@gmail.com)
-* 🧠  I'm learning Python
+* 🧠  I know Python
 * 🤝  I'm open to collaborating on interesting projects
 
 
